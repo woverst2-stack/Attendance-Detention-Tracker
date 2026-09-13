@@ -217,4 +217,4 @@ empty by design.
 
 ## License
 
-MIT, or whichever license you prefer -- add a LICENSE file before publishing.
+MIT -- see [LICENSE](LICENSE).
